@@ -1,0 +1,7 @@
+Proyecto 1: Ekomerce.
+Es un e-commerce desarrollado con el framework angular por parte del frontend,
+con la ayuda de herramientas de diseño de sitios tales como bootstrap y angular material.
+Por parte de la capa del backend se usó node.js y express, desarrollando la aplicacion en typescript.
+
+Frontend: https://github.com/AnibalEscalante/EcommerceFrontEnd
+Backend: https://github.com/AnibalEscalante/EkomerceBackEnd
